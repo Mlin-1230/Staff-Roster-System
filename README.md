@@ -8,3 +8,8 @@ A system for managing employee schedules and related administrative tasks.
 3. **Leave Requests** — Employees can submit and manage leave requests.
 4. **Payroll Management** — Calculate and manage employee salaries.
 5. **Statistical Reporting** — Generate statistics and reports for management purposes.
+
+---
+
+## Database Setup
+- Import the `schedule.sql` file from the `Database` folder into your MySQL server to initialize the database.
